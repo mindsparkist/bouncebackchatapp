@@ -60,6 +60,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Highlighting a specific feature: 
+
+Curious about building a robust commenting system for your blog? Check out my technical journey behind it on https://shuvradipchakrabortyportfolio.blogspot.com/2020/03/our-fully-featured-mini-social.html
+
 ## Acknowledgments
 
 - Special thanks to contributors and the open-source community for making this project possible.
