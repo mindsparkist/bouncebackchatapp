@@ -64,6 +64,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Curious about building a robust commenting system for your blog? Check out my technical journey behind it on https://shuvradipchakrabortyportfolio.blogspot.com/2020/03/our-fully-featured-mini-social.html
 
+## Find Project Presentation Here
+
+Project Overview Presentation: https://www.slideshare.net/slideshows/unveiling-authenticity-a-mini-social-network-redefining-engagementpptx/265632607
+
 ## Acknowledgments
 
 - Special thanks to contributors and the open-source community for making this project possible.
